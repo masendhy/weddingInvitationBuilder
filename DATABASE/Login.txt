@@ -1,0 +1,8 @@
+
+
+Nama Aplikasi : SI DOINIKAH V1 - Wedding Invitation
+API Yang digunakan : RAPHIWA, API RAPHIWA ini berfungsi untuk menyambungkan program dengan aplikasi whatsapp.
+
+Login
+Email : admin@gmail.com
+Password : admin

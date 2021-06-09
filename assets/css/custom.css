@@ -1,0 +1,15 @@
+body { 
+ background: url(../images/bg2.jpg) no-repeat center center fixed; 
+ -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ background-size: cover;
+}
+/*memberi style pada class panel default*/
+.panel-default {
+ opacity: 0.9;
+ margin-top:180px;
+}
+.form-group.last {
+ margin-bottom:0px;
+}
